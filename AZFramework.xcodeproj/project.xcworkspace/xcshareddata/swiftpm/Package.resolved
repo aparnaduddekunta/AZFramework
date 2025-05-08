@@ -1,0 +1,15 @@
+{
+  "originHash" : "cbc37cd1747889ddf414f6d42bd4e1766f57f9c363980f29066108b9ec98aacc",
+  "pins" : [
+    {
+      "identity" : "swiftpackage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/aparnaduddekunta/SwiftPackage.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "595d789104bb5105e75a16f4fce0b2b1163569e6"
+      }
+    }
+  ],
+  "version" : 3
+}
